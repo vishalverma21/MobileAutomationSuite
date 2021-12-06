@@ -1,0 +1,13 @@
+2021-09-17 12:04:48 [common.AttachHooks] INFO :: Inside set up method of before hook
+2021-09-17 12:04:48 [common.AttachHooks] INFO :: /Users/vishalverma/Desktop/Automation/timetable
+2021-09-17 12:04:48 [common.AttachHooks] INFO :: setup:::::::
+2021-09-17 12:05:10 [Timetable.HomePage] INFO :: Footer texts and icons are verified successfully
+2021-09-17 12:05:10 [stepDefinition.HomePageStepDef] INFO :: Footer is verified Successfully on home page
+2021-09-17 12:05:10 [Timetable.HomePage] INFO :: Lines button is clicked successfully
+2021-09-17 12:05:10 [stepDefinition.HomePageStepDef] INFO :: Lines button is clicked Successfully
+2021-09-17 12:05:25 [Timetable.LinesPage] INFO :: View is at 6 Bus
+2021-09-17 12:05:25 [stepDefinition.LinesStepDef] INFO :: Lines page is verified Successfully
+2021-09-17 12:05:25 [Timetable.LinesPage] INFO :: Direction arrow is clicked
+2021-09-17 12:05:25 [stepDefinition.LinesStepDef] INFO :: Direction arrow is clicked Successfully
+2021-09-17 12:05:28 [Timetable.LinesPage] INFO :: Line bus map page is verified successfully for go back button and header
+2021-09-17 12:05:32 [stepDefinition.LinesStepDef] INFO :: Line Map page is verified Successfully
